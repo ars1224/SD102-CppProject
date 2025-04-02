@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\aries\\Documents\\yoobee-group5\\SD102-CppProject\\To-Do List\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{CFAC051C-ECFC-4436-84D8-87E18A894FBB}|To-Do List.vcxproj|D:\\aries\\Documents\\yoobee-group5\\SD102-CppProject\\To-Do List\\To-Do List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CFAC051C-ECFC-4436-84D8-87E18A894FBB}|To-Do List.vcxproj|solutionrelative:To-Do List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "To-Do List.cpp",
-              "DocumentMoniker": "D:\\aries\\Documents\\yoobee-group5\\SD102-CppProject\\To-Do List\\To-Do List.cpp",
-              "RelativeDocumentMoniker": "To-Do List.cpp",
-              "ToolTip": "D:\\aries\\Documents\\yoobee-group5\\SD102-CppProject\\To-Do List\\To-Do List.cpp*",
-              "RelativeToolTip": "To-Do List.cpp*",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAmwIkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T09:52:53.46Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

@@ -1,0 +1,6 @@
+﻿  Temo Converter.cpp
+D:\aries\Documents\yoobee-group5\SD102-CppProject\Temp Converter\Temo Converter.cpp(14,12): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+D:\aries\Documents\yoobee-group5\SD102-CppProject\Temp Converter\Temo Converter.cpp(20,27): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+D:\aries\Documents\yoobee-group5\SD102-CppProject\Temp Converter\Temo Converter.cpp(25,12): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+D:\aries\Documents\yoobee-group5\SD102-CppProject\Temp Converter\Temo Converter.cpp(26,31): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  Temp Converter.vcxproj -> D:\aries\Documents\yoobee-group5\SD102-CppProject\Temp Converter\x64\Debug\Temp Converter.exe
