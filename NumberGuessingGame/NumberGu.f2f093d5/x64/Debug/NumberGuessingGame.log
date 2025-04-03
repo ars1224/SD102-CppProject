@@ -1,0 +1,3 @@
+﻿  ngg.cpp
+D:\aries\Documents\yoobee-group5\SD102-CppProject\NumberGuessingGame\ngg.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NumberGuessingGame.vcxproj -> D:\aries\Documents\yoobee-group5\SD102-CppProject\NumberGuessingGame\x64\Debug\NumberGuessingGame.exe
