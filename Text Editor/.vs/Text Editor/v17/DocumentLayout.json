@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aries\\Desktop\\Yoobee\\SD102-CppProject\\SD102-CppProject\\Text Editor\\",
+  "WorkspaceRootPath": "D:\\aries\\Documents\\yoobee-group5\\SD102-CppProject\\Text Editor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCC2B876-FA40-46DE-988D-3E1BA873743D}|Text Editor.vcxproj|C:\\Users\\aries\\Desktop\\Yoobee\\SD102-CppProject\\SD102-CppProject\\Text Editor\\textEdittor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BCC2B876-FA40-46DE-988D-3E1BA873743D}|Text Editor.vcxproj|D:\\aries\\Documents\\yoobee-group5\\SD102-CppProject\\Text Editor\\textEdittor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BCC2B876-FA40-46DE-988D-3E1BA873743D}|Text Editor.vcxproj|solutionrelative:textEdittor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "textEdittor.cpp",
-              "DocumentMoniker": "C:\\Users\\aries\\Desktop\\Yoobee\\SD102-CppProject\\SD102-CppProject\\Text Editor\\textEdittor.cpp",
+              "DocumentMoniker": "D:\\aries\\Documents\\yoobee-group5\\SD102-CppProject\\Text Editor\\textEdittor.cpp",
               "RelativeDocumentMoniker": "textEdittor.cpp",
-              "ToolTip": "C:\\Users\\aries\\Desktop\\Yoobee\\SD102-CppProject\\SD102-CppProject\\Text Editor\\textEdittor.cpp",
+              "ToolTip": "D:\\aries\\Documents\\yoobee-group5\\SD102-CppProject\\Text Editor\\textEdittor.cpp",
               "RelativeToolTip": "textEdittor.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-03T04:29:34.406Z",
               "EditorCaption": ""
